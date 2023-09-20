@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Hapus baris ini atau pastikan nilainya adalah false -->
+        <item name="windowActionBar">false</item>
+        <!-- Hapus baris ini atau pastikan nilainya adalah false -->
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
